@@ -13,5 +13,6 @@ The purpose of this interactive prototype is to have a clear visualization of th
 2. Users can find different old driver resources including driver license restrictions for medical conditions, adjustments you can make to stay safe, assessment of driving skills, and ways to improve driving skills. This is important in order to minimize the amount odf danger that driving poses. 
 
 ## Wireframe
+<img width="688" alt="Screen Shot 2021-11-17 at 9 31 07 PM" src="https://user-images.githubusercontent.com/91553084/142362543-0db5265d-ccee-495d-8aa4-cf2775220c12.png">
 
 ## Wireflow
