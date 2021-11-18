@@ -19,4 +19,5 @@ The purpose of this interactive prototype is to have a clear visualization of th
 ## Wireflow
 <img width="688" alt="Screen Shot 2021-11-17 at 9 31 07 PM" src="https://user-images.githubusercontent.com/91553084/142362543-0db5265d-ccee-495d-8aa4-cf2775220c12.png">
 
-https://www.figma.com/proto/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=3%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A4
+## Interactive Prototype
+The link to the high- fidelity intertactive prototype can be found [here](https://www.figma.com/proto/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=3%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A4)
