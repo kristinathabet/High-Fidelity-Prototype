@@ -1,4 +1,4 @@
- # DH110 Assignment 6:High-Fidelity-Prototype by Kristina Thabet
+ # DH110 Assignment 7: Interactive Prototype by Kristina Thabet
  ## Project Description
 ### Summary 
 The following high fidelity prototype was created to illustrate the process of navigating the New York DMV website to complete two different tasks: Finding information about changing your name on your drivers license and finding older driver resources.  
