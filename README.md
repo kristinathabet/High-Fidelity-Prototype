@@ -12,7 +12,7 @@ The purpose of this interactive prototype is to have a clear visualization of th
 
 2. Users can find different old driver resources including driver license restrictions for medical conditions, adjustments you can make to stay safe, assessment of driving skills, and ways to improve driving skills. This is important in order to minimize the amount odf danger that driving poses. 
 
-## Initial Prototype before evaluating with others
+## Initial Prototype Before Evaluating with Peers
 <img width="897" alt="Screen Shot 2021-11-11 at 3 40 09 PM" src="https://user-images.githubusercontent.com/91553084/142364015-eab4ab0a-a00c-45fb-9b87-4e3513244e84.png">
 
 This is a previous version of my prototype that I created before evaluating the design with my peers. After conversation about my prototype, I decided to make my button features look more dynamic by adding borders and shadow features to them. It was also suggested that I leave a margin around each of my frames to ensure words are not close to being cut out. I accepted this suggestion and also used grid lines to make sure everything in my protoype is consistent. 
