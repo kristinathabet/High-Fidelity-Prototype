@@ -13,6 +13,9 @@ The purpose of this interactive prototype is to have a clear visualization of th
 2. Users can find different old driver resources including driver license restrictions for medical conditions, adjustments you can make to stay safe, assessment of driving skills, and ways to improve driving skills. This is important in order to minimize the amount odf danger that driving poses. 
 
 ## Initial Prototype before evaluating with others
+<img width="897" alt="Screen Shot 2021-11-11 at 3 40 09 PM" src="https://user-images.githubusercontent.com/91553084/142364015-eab4ab0a-a00c-45fb-9b87-4e3513244e84.png">
+
+This is a previous version of my prototype that I created before evaluating the design with my peers. After conversation about my prototype, I decided to make my button features look more dynamic by adding borders and shadow features to them. It was also suggested that I leave a margin around each of my frames to ensure words are not close to being cut out. I accepted this suggestion and also used grid lines to make sure everything in my protoype is consistent. 
 
 ## Final Wireframe
 <img width="693" alt="Screen Shot 2021-11-17 at 10 15 41 PM" src="https://user-images.githubusercontent.com/91553084/142362850-9b434b49-9341-47ae-91ff-ecc3c5725424.png">
@@ -24,3 +27,6 @@ The purpose of this interactive prototype is to have a clear visualization of th
 The high-fidelity interactive prototype can be found [here](https://www.figma.com/proto/FEB6cMg8eHllFAcfA8dpFq/Untitled?node-id=3%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A4)
 
 ## Cognitive Walkthrough
+Video Evidence of Cognitive Walkthrough found [here](https://youtu.be/4NeQ-W-P4mg)
+
+The cognitive walkthrough went quite smoothly and as expected. The user was able to navigate through the tasks easily and could redirect herself to the home page once she hit a frame with no forward movements. She noted that the colors were very visually pleasing and everything was easy to read. The user was not aware that not all the tasks on the website are functioning, so she was slighlty confused at the start of the cognitve walkthrough. As soon as she began clicking on inactive buttons on the prototype, the active tabs flashed color, informing her of where she should click next. Moving forward, I would make the search bar on my prototype interactive, having it lead to commonly searched questions and their answers. The user also suggestes that I add a home button and back button that is more intuitive then I have now. I will write under each button "home" or "back" very small so users can see both the icon and written words. Overall, this walkthrough was important in validating the functionality of my high-fidelity prototype and making sure there are no systematic errors in the wireflow. 
